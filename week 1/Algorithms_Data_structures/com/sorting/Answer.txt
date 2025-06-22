@@ -1,4 +1,0 @@
-1.Time Complexity Comparison
-Algorithm	    Best Case	Average Case	Worst Case
-Bubble Sort	    O(n²)	    O(n²)	        O(n²)
-Quick Sort	    O(n log n)	O(n log n)	    O(n²)

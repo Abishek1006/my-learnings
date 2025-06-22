@@ -1,6 +1,0 @@
-1.Time Complexity Analysis
-Operation	Time Complexity
-Add	        O(1) 
-Search	    O(n)
-Delete	    O(n) 
-Traverse	O(n)
