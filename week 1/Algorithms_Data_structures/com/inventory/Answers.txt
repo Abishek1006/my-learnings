@@ -1,0 +1,18 @@
+1.Why are data structures and algorithms important here?
+    Efficient inventory management involves fast lookup, updates, and deletions. Without the right data structure, these operations could become 
+    slow and impact performance as inventory grows
+    
+2.Which data structures are suitable?
+    HashMap: Maps productId → Product, giving O(1) time for add, update, delete, and search
+
+3.Analysis
+Operation	        HashMap Time Complexity
+Add Product	        O(1) average case
+Update Product	    O(1) average case
+Delete Product	    O(1) average case
+View Inventory	    O(n) (where n = number of products)
+
+4.optimizations
+    If the product ID is known, HashMap gives constant time operations ,to sort or search by other fields like productName, 
+    you could use a secondary data structure or apply sorting/searching techniques as needed
+

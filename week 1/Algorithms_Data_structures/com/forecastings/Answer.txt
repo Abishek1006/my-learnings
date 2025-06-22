@@ -1,0 +1,4 @@
+1.Time Complexity Analysis
+Approach	        Time Complexity
+Plain Recursion	       O(n)
+Memoized	           O(n)

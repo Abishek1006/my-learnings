@@ -1,0 +1,10 @@
+1.Time Complexity Analysis
+Operation	Time Complexity
+Add	        O(n) 
+Search	    O(n)
+Delete	    O(n)
+Traverse	O(n)
+
+2.Advantages of Linked List over Arrays
+    Dynamic size
+    Efficient insert/delete at beginning/middle

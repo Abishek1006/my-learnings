@@ -1,0 +1,9 @@
+1.Time Complexity
+Search Type	    Best Case       Average Case	Worst Case
+Linear Search	O(1)	         O(n)	        O(n)
+Binary Search	O(1)	         O(log n)	    O(log n)
+
+2.When to Use:
+    Use Linear Search for small or unsorted data.
+3.Use Binary Search when:
+    The list is already sorted

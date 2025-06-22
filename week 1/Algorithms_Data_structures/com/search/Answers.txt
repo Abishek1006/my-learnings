@@ -1,0 +1,9 @@
+1.Time Complexity:
+Operation	    Linear Search	Binary Search (sorted)
+Best Case	    O(1)	            O(1)
+Average Case	O(n)	            O(log n)
+Worst Case	    O(n)	            O(log n)
+
+2.When to Use:
+    Use linear search if the list is unsorted or small.
+    Use binary search if the list is sorted and performance is critical.
